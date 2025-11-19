@@ -26,8 +26,6 @@
     </a>
 </div>
 
-<div align="center">
-
 ## Security Vulnerabilities
 
 Please review [our security policy](SECURITY.md) on how to report security vulnerabilities.
@@ -55,4 +53,3 @@ docker run -d \
 ## Acknowledgments
 The Gopher logo used is from the [gotify project](https://github.com/gotify/logo)<br>
 The ntfy logo used is from the [ntfy project](https://github.com/binwiederhier/ntfy)
-</div>
