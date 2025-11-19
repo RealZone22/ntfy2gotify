@@ -1,0 +1,11 @@
+{
+  "log_level": "info",
+  "api": {
+    "host": "0.0.0.0",
+    "port": 8080
+  },
+  "subscriptions": {
+    "ntfy": "https://gotify.example.com/message?token=YOUR_TOKEN_HERE",
+    "ntfy1": "https://another-gotify.example.com/message?token=ANOTHER"
+  }
+}
