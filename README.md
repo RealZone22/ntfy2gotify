@@ -47,6 +47,7 @@ Alternatively, you can run it using Docker:
 docker run -d \
   --name ntfy2gotify \
   -v ./config.json:/app/config.json \
+  -p 8080:8080 \
   ghcr.io/realzone22/ntfy2gotify:latest
 ```
 
